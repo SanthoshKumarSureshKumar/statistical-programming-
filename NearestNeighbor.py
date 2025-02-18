@@ -1,7 +1,3 @@
-print("DATA-51100, Fall 2024")
-print("NAME: Santhosh Kumar Suresh Kumar")
-print("PROGRAMMING ASSIGNMENT #3")
-print("\n")
 
 import numpy as np
 
