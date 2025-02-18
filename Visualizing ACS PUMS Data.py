@@ -1,7 +1,4 @@
-# Assignment Information
-print("Data 51100- Fall 2024")
-print("Santhosh Kumar Suresh Kumar")
-print("Programming Assignment #6")
+
 
 # Importing necessary libraries
 import matplotlib.pyplot as plt
