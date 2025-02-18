@@ -1,7 +1,4 @@
-print("DATA-51100, Fall 2024")
-print("NAME: Santhosh Kumar Suresh Kumar")
-print("PROGRAMMING ASSIGNMENT #5")
-print("\n")
+
 
 import pandas as pd
 pd.options.display.max_columns = None
