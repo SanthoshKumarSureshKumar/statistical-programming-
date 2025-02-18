@@ -1,7 +1,3 @@
-print("DATA-51100, Fall 2024")
-print("NAME: Santhosh Kumar Suresh Kumar")
-print("PROGRAMMING ASSIGNMENT #1")
-print("\n"*2)
 
 # initialising everthing
 numbers = []    # List to store input numbers
