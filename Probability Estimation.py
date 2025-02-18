@@ -1,7 +1,4 @@
-print("DATA-51100, Fall 2024")
-print("NAME: Santhosh Kumar Suresh Kumar")
-print("PROGRAMMING ASSIGNMENT #4")
-print("\n")
+
 
 # Import pandas library for data manipulation
 import pandas as pd
